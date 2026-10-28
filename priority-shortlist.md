@@ -27,29 +27,37 @@
 
 **Priority 1: TU Dresden M.Sc. Computer Science (English)**
 - Free, same university/alumni network, ScaDS.AI access
-- Deadline: 31 May 2027 (non-EU); verify annually
+- Window: 1 Apr – 31 May 2027 (non-EU); verify annually
 - Extra: IELTS 7.0, GRE recommended
 
 **Priority 2: TU Berlin M.Sc. Computer Science**
 - Free, lowest English bar (IELTS 6.5), clean LP fit, no GRE, no test
-- Deadline: 15 May 2027 (non-EU)
+- Window: ~2 Apr – 15 May 2027 (non-EU, unofficial source)
 - Best career city for startups + largest Vietnamese community
 
-**Priority 3 (conditional): TU München M.Sc. Informatics**
-- Free, best career market, #1 CS in Germany
-- Only if willing to travel to Munich for on-campus aptitude test (July–September 2027)
+**Priority 3: Universität Bonn M.Sc. Computer Science**
+- Free (NRW), no GRE, no aptitude test; ADS category borderline — confirm with the Studienbüro
+- Window: WiSe 2027/28 dates not announced (2026 pattern: 15 May – 1 Jun non-EEA, 1 – 15 Jul EEA); IELTS 7.0 (C1). Points-based selection, no interview
+- Smaller, cheaper city (€600–800 rent range); near Cologne, Telekom, DLR
 
 ### Track 2: German-Taught
 
 **Priority 4: Universität Leipzig M.Sc. Informatik**
 - Free, cheapest city, ScaDS.AI partner (joint with TU Dresden)
 - No extra language test (German B.Sc. accepted)
-- Deadline: 15 July 2027
+- Deadline: 15 Sep 2027 per the official study guide (start date not found; apply via almaweb)
 
 **Priority 5: Universität Hamburg M.Sc. Informatik**
 - Free, large city, HVV Semesterticket included
 - No extra language test
 - Good career market in logistics tech and media
+- Window: 1 May – 15 Jun 2027 per the official page (winter semester starts 1 Oct)
+
+**Backup (6th): FSU Jena M.Sc. Informatik**
+- Free (Thuringia), cheapest rent of any option (€450–650), no GRE, no hard ECTS thresholds (holistic review, your grade 2.2 meets "gut oder besser")
+- German B.Sc. waives DSH-2; Eignungstest is document-based, no travel
+- Deadline: 15 July 2027 per one aggregator; sources conflict (related Jena masters show 1 Apr – 31 Aug) — **start date and non-EU deadline unconfirmed, email the admissions office first**
+- Weaker career market; apply only if the top five look shaky after the IELTS result
 
 ---
 
@@ -69,13 +77,20 @@
 
 Apply to 4–5 programs total to balance effort and maximize chances:
 
-| Application | Track | Deadline | Priority |
+| Application | Track | Application window (start – end) | Priority |
 | --- | --- | --- | --- |
-| TU Dresden M.Sc. CS (English) | English | 31 May 2027 | 1st |
-| TU Berlin M.Sc. CS | English | 15 May 2027 | 2nd |
-| Universität Leipzig M.Sc. Informatik | German | 15 July 2027 | 3rd |
-| Universität Bonn M.Sc. CS | English | 15 May 2027 | 4th |
-| TUM M.Sc. Informatics | English | 31 March 2027 | 5th (only if aptitude test trip feasible) |
+| TU Dresden M.Sc. CS (English) | English | 1 Apr – 31 May 2027 (non-EU), then aptitude assessment 1 Jun – 15 Jul | 1st |
+| TU Berlin M.Sc. CS | English | ~2 Apr – 15 May 2027 (third-party source, unofficial) | 2nd |
+| Universität Bonn M.Sc. CS | English | WiSe 2027/28 not announced yet; 2026 pattern was 15 May – 1 Jun (non-EEA), 1 – 15 Jul (EEA), see note | 3rd |
+| Universität Leipzig M.Sc. Informatik | German | start not found – **15 Sep** (official guide; earlier docs said 15 Jul) | 4th |
+| Universität Hamburg M.Sc. Informatik | German | 1 May – 15 Jun (official; earlier docs said 15 May / 15 Jul) | 5th |
+| FSU Jena M.Sc. Informatik | German | start not found – 15 Jul (unconfirmed, conflicting sources) | Backup |
+
+Windows are taken from WiSe 2026/27 pages and assumed to repeat for 2027; universities usually publish the new dates in early 2027. Re-verify each in Feb 2027.
+
+**Bonn application guide (read Oct 2026, [source](https://www.informatik.uni-bonn.de/en/studies/master-programs/master-program-application)):** a bachelor's from Germany counts you as a German/EEA applicant. For WiSe 2026/27 Computer Science, all eligible EEA applicants were admitted, while only about the top 1% of non-EEA applicants were. Eligibility minimums include 18 ECTS maths, 14 ECTS algorithms/complexity/formal languages, 18 ECTS programming/software/information systems, and a bachelor's thesis of at least 12 ECTS and 750 lines of text. Only grades better than 2.5 earn selection points. Required: IELTS Academic 7.0, motivation letter (max 4,000 characters), CV, transcripts, module handbooks. The guide asks for APS for previous education in Vietnam, so confirm with Bonn. No interview is described.
+
+**Bonn note (earlier check, Oct 2026):** Bonn's [application-status page](https://www.informatik.uni-bonn.de/en/studies/master-programs/understanding-your-application-status) says 13 places per year go to applicants from outside the EEA. Bonn's [deadlines page](https://www.informatik.uni-bonn.de/en/studies/examination-office/deadlines-at-a-glance) says that people who complete a bachelor's or master's at an EEA university also count as EEA students (not "German university by 30 September", as I wrote earlier), and that WiSe 2027/28 deadlines "will be announced at a later date". The 15 May – 1 Jun and 1 – 15 Jul windows are the 2026 pattern only. Ask Bonn whether a TU Dresden degree makes you an EEA applicant.
 
 ---
 
@@ -88,6 +103,7 @@ Apply to 4–5 programs total to balance effort and maximize chances:
 | Munich | €1,200–1,600 | Large (VIESTA München) | Best in Germany | €20–28/hr |
 | Leipzig | €700–900 | Small | Growing | €12–18/hr |
 | Hamburg | €900–1,200 | Moderate-large | Good (logistics, media) | €15–22/hr |
+| Jena | €600–800 | Small | Limited | €12–16/hr (estimate, unverified) |
 
 ---
 
@@ -95,16 +111,16 @@ Apply to 4–5 programs total to balance effort and maximize chances:
 
 ### IELTS (for English-taught programs)
 - [ ] Register for IELTS Academic in Hanoi or Ho Chi Minh City
-- [ ] Target date: **October–November 2026** (score valid 2 years → covers May 2027 deadlines)
+- [ ] Target date: **March 2027** (score valid 2 years → covers all 2027 deadlines; book a seat by Jan 2027, results ~3–13 days after the exam)
 - [ ] Target score: 7.0 Academic (6.5 is sufficient for TU Berlin)
-- [ ] Prep time: 2–3 months of structured study (Cambridge IELTS books 14–18)
-- [ ] Retake budget: plan for one retake if needed before December 2026
+- [ ] Prep time: 5 months (Nov 2026 – Mar 2027), see `IELTS_5_Month_Study_Plan.md` (current R 7.0 / L 7.0 / W 5.5 / S 5.5)
+- [ ] Retake budget: one retake in **April 2027** if needed — still lands before the 15 May (TU Berlin), 1 Jun (Bonn) and 31 May (TU Dresden) deadlines
 
-### GRE (for TU Dresden CS English + TUM + KIT)
+### GRE (recommended by TU Dresden CS English; required by KIT, not needed for the current shortlist otherwise)
 - [ ] Register at ETS; available in Hanoi and HCMC
 - [ ] Target score: Quantitative ≥160 (≥75th percentile)
 - [ ] Prep time: 2–3 months; fee USD 220
-- [ ] Target test date: Q1 2027 (score valid 5 years)
+- [ ] Target test date: **April 2027** (after IELTS, so the two preps don't collide; score reports arrive ~10 days, before the 31 May Dresden deadline; score valid 5 years)
 
 ### Application Documents
 - [ ] TU Dresden Zeugnis + Transcript — certified copy (already have original)
@@ -112,8 +128,8 @@ Apply to 4–5 programs total to balance effort and maximize chances:
 - [ ] Two recommendation letters (current/former supervisor at TU Dresden or Rikkeisoft)
 - [ ] CV (academic + professional; updated with certifications)
 - [ ] IELTS certificate (if applying to English programs)
-- [ ] GRE score report (if required)
-- [ ] APS certificate (if required — check with each university)
+- [ ] GRE score report (recommended for TU Dresden)
+- [ ] APS certificate — likely not needed (German B.Sc.); get written confirmation from each university or the APS office
 
 ### Financial Preparation
 - [ ] Sperrkonto setup: €11,208 minimum blocked (German Embassy Vietnam requirement for student visa)
@@ -121,8 +137,12 @@ Apply to 4–5 programs total to balance effort and maximize chances:
 - [ ] Setup timeline: 3–4 months before visa appointment
 
 ### Scholarship Research
-- [ ] Deutschlandstipendium — apply at enrolled university after admission (€300/month)
-- [ ] Heinrich-Böll / KAS / FNS — apply 18 months before studies start (i.e., April 2026 for WiSe 2027)
+- [ ] Deutschlandstipendium (€300/month): open to non-EU master's students, run by each university; apply in your first semester (e.g. Goethe: July; Darmstadt: opens Sept). Excludes people with other achievement-based aid
+- [ ] FES (Friedrich-Ebert-Stiftung, ~€992/month): foreign-student Grundförderung; master's deadline **30 Nov** (winter start) / 31 May (summer start), at or just after the first semester. Needs very good German (DSH-2 / C1) and social-democratic values: ask FES whether your German B.Sc. counts
+- [ ] Heinrich-Böll-Stiftung: deadlines **1 Mar and 1 Sep** each year; master's needs a bachelor's plus German B2/DSH; written application + 2 interviews. Ask whether you can apply before enrolling (1 Sep 2027 would fall before your start)
+- [ ] KAS (~€992/month): graduates planning at least 3 semesters in Germany; one listing shows 15 Jul; age cap and German B1/B2 may apply; verify on the official site
+- [ ] "Apply 18 months ahead" is not supported by any source found; dropped
+- [ ] DAAD: still ineligible (6-year rule)
 - [ ] Monitor BW tuition law changes annually
 
 ---

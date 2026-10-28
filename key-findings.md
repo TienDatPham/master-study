@@ -94,7 +94,9 @@ The APS is a German embassy document verification process for Vietnamese applica
 
 **Dan's German B.Sc. does NOT substitute for English proof at English-taught programs.** The German B.Sc. only substitutes for DSH/TestDaF at German-taught programs.
 
-**Recommended action:** Sit IELTS Academic in Hanoi or HCMC by **October–November 2026** (results valid 2 years → covers May 2027 deadlines). Target 7.0. If 6.5 achieved, TU Berlin and Heidelberg are still accessible.
+**Recommended action:** Sit IELTS Academic in Hanoi or HCMC in **March 2027** after the 5-month plan in `IELTS_5_Month_Study_Plan.md` (results valid 2 years → covers all 2027 deadlines). Target 7.0. If 6.5 achieved, TU Berlin and Heidelberg are still accessible. Keep **April 2027** free for a retake (before the 15/31 May deadlines).
+
+**Consequences of the March 2027 date:** Stuttgart (15 Jan), RWTH (1 Mar) and TUM (31 Mar) deadlines fall before a usable IELTS result — drop them. Starting level is Writing 5.5 / Speaking 5.5, so 7.0 Overall is ambitious; if the Feb 2027 mocks stay below 6.5 in Writing/Speaking, plan on TU Berlin (6.5) as the safe target.
 
 ---
 

@@ -43,6 +43,8 @@
 | `priority-shortlist.md` | Combined ranked shortlist across both tracks + action plan |
 | `key-findings.md` | Critical facts, verified corrections, scholarship eligibility, cost breakdown |
 | `application-timeline.md` | Month-by-month preparation and application timeline to WiSe 2027/28 |
+| `monthly-action-plan.md` | Month-by-month to-do list, Oct 2026 – Oct 2027 |
+| `IELTS_5_Month_Study_Plan.md` | Nov 2026 – Mar 2027 IELTS study plan (target 7.0) |
 
 ---
 
@@ -60,7 +62,7 @@
 
 6. **TUM aptitude test** — Written exam in Munich, July–September. Must be taken in person. Major logistical barrier for Vietnam-based applicants.
 
-7. **IELTS required for all English programs** — Dan's German B.Sc. does NOT substitute for English language proof at English-taught programs. Target: IELTS 7.0 Academic (6.5 for TU Berlin/Heidelberg). Sit by Oct–Nov 2026.
+7. **IELTS required for all English programs** — Dan's German B.Sc. does NOT substitute for English language proof at English-taught programs. Target: IELTS 7.0 Academic (6.5 for TU Berlin/Heidelberg). Exam planned **March 2027** (study plan: `IELTS_5_Month_Study_Plan.md`); retake slot April 2027. Too late for Stuttgart/RWTH/TUM deadlines.
 
 ---
 

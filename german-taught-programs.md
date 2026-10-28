@@ -159,6 +159,37 @@ The German-taught M.Sc. Informatik at TU Dresden has been phased out. The replac
 
 ---
 
+### Friedrich-Schiller-Universität Jena — M.Sc. Informatik
+
+| Field | Detail |
+| --- | --- |
+| Language | German |
+| Duration | 4 semesters (120 LP) |
+| Location | Jena, Thuringia |
+| Tuition | Free (Thuringia — no non-EU tuition law) |
+| Semester fee | ~€277 |
+| Deadline | 15 July (EU/German degree); **non-EU: confirm directly** (mygermanuniversity lists "keine Angabe") |
+| Aptitude assessment | Yes — Eignungstest (document-based committee review, NOT an in-person exam like TUM) |
+| GRE | Not required |
+| Language proof | DSH-2 required — **waived for German B.Sc. holders** |
+
+**Admission requirements:**
+- B.Sc. Informatik or equivalent, 180 LP / 6 semesters minimum
+- Grade "gut oder besser" (≤2.5) recommended; Zulassungskommission reviews borderline cases
+- No published subject-area ECTS thresholds for admission (Studienordnung §2 = holistic assessment)
+
+**Dan's fit:** Strong. German B.Sc. covers language requirement. Grade 2.2 meets the "gut oder besser" guideline. No hard ECTS thresholds to check against — committee review based on overall profile. Aptitude test is document-based (not in-person), so no travel required.
+
+**Jena as a city:**
+- Rent: €450–650/month (1-room flat) — one of cheapest university cities in Germany
+- Studentenwerk Thüringen dorms: €220–350/month
+- Small city (~100k), strong student culture (Schiller-Universität), FSU medical + science campus
+- ~1 hour from both Leipzig and Dresden by RE (same Saxony-Thuringia corridor)
+
+**Verdict:** Overlooked gem. Tuition-free, low cost of living, clean LP fit, no hard ECTS thresholds, close to Dresden network. Weaker career market than Hamburg/Berlin but ideal as a safety or backup option.
+
+---
+
 ### Universität Leipzig — M.Sc. Informatik
 
 | Field | Detail |
@@ -183,11 +214,12 @@ The German-taught M.Sc. Informatik at TU Dresden has been phased out. The replac
 | 1 | **Universität Leipzig** | Saxony | €700–900 | ScaDS.AI partner, cheap city, near Dresden | Smaller career market |
 | 2 | **Universität Hamburg** | Hamburg | €900–1,200 | Large city, logistics/startup career market | Higher living cost |
 | 3 | **RWTH Aachen** | NRW | €800–1,100 | Top ranking, strong alumni network | GRE + early deadline |
-| 4 | **TU Darmstadt** | Hessen | €850–1,100 | Cybersecurity, ATHENE | Language waiver to verify |
-| 5 | **Uni Hannover** | Lower Saxony | €750–1,000 | Systems research, VW/Continental | Mid-tier ranking |
-| 6 | **Uni Paderborn** | NRW | €650–850 | Software engineering focus | Smaller city |
-| 7 | **Uni Duisburg-Essen** | NRW | €700–900 | Affordable, Ruhr location | Lower ranking |
-| 8 | **Uni Göttingen** | Lower Saxony | €700–900 | Historical university | Limited tech industry |
+| 4 | **FSU Jena** | Thuringia | €600–800 | Very cheap city, near Dresden/Leipzig, no ECTS thresholds | Small career market; non-EU deadline unconfirmed |
+| 5 | **TU Darmstadt** | Hessen | €850–1,100 | Cybersecurity, ATHENE | Language waiver to verify |
+| 6 | **Uni Hannover** | Lower Saxony | €750–1,000 | Systems research, VW/Continental | Mid-tier ranking |
+| 7 | **Uni Paderborn** | NRW | €650–850 | Software engineering focus | Smaller city |
+| 8 | **Uni Duisburg-Essen** | NRW | €700–900 | Affordable, Ruhr location | Lower ranking |
+| 9 | **Uni Göttingen** | Lower Saxony | €700–900 | Historical university | Limited tech industry |
 
 ---
 

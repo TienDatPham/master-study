@@ -107,7 +107,7 @@
 | Start | Winter semester only |
 | English proof | C1 (IELTS ≥7.0 / TOEFL iBT ≥94) |
 | GRE | Not required |
-| Aptitude test | Possible interview |
+| Aptitude test | None |
 
 **Admission ECTS thresholds:**
 - Mathematics: ≥18 ECTS ← Dan: 30 LP ✓
@@ -293,7 +293,7 @@ RWTH's M.Sc. Informatik requires **German C1** — it is not an English-taught p
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | **TU Dresden** M.Sc. CS | Free | ✓ (OS borderline) | IELTS 7.0, GRE recommended | Dresden (ScaDS.AI, Infineon) | **Apply — 1st choice** |
 | 2 | **TU Berlin** M.Sc. CS | Free | ✓ Clean fit | IELTS 6.5 (lower bar) | Berlin startups, Vietnamese community | **Apply — 2nd choice** |
-| 3 | **Uni Bonn** M.Sc. CS | Free | ✓ (ADS borderline) | IELTS 7.0, possible interview | Bonn/Cologne, Telekom, DLR | **Apply — 3rd choice** |
+| 3 | **Uni Bonn** M.Sc. CS | Free | ✓ (ADS borderline) | IELTS 7.0 | Bonn/Cologne, Telekom, DLR | **Apply — 3rd choice** |
 | 4 | **TUM** M.Sc. Informatics | Free | ✓ Holistic | **Aptitude test in Munich**, GRE, APS | Munich (best career market) | **Only if test trip feasible** |
 | 5 | **Freiburg** M.Sc. CS | **€1,500/sem** | ✓ | IELTS 7.0; clean otherwise | Freiburg/Basel | Only with scholarship |
 | 6 | **KIT** M.Sc. CS | **€1,500/sem** | ✓ | IELTS 7.0, GRE required | Karlsruhe/Stuttgart | Only with scholarship |
