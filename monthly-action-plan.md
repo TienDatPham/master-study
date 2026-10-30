@@ -26,7 +26,8 @@ Dropped because the IELTS result arrives too late: Stuttgart (15 Jan), RWTH (1 M
 - [ ] Take one diagnostic Cambridge mock (all 4 skills) to confirm the baseline: R 7.0 / L 7.0 / W 5.5 / S 5.5
 - [ ] Find a Writing/Speaking tutor or partner (iTalki, Han Ngo's Facebook group, HelloTalk)
 - [x] Email TU Dresden admission: application window, APS, GRE for a non-EU applicant with a TUD bachelor's
-- [ ] Email Bonn, Hamburg and Jena (drafts 03–05) to confirm: deadlines for non-EU applicants with a German degree, whether APS is needed, and Jena's non-EU deadline
+- [x] Email Hamburg and Jena (drafts 04–05) to confirm: deadlines for non-EU applicants with a German degree, whether APS is needed, and Jena's non-EU deadline
+- [ ] Email Bonn(drafts 03): bachelor thesis required for application. Waiting for reply from TUD to see if I can receive a copy of my thesis, else I cannot apply to Bonn
 - [x] Email the TU Dresden CS faculty about the borderline OS/Networks/DB credits (17 vs 20 ECTS required)
 - [ ] Scholarships (researched Oct 2026, see `priority-shortlist.md`): email FES, Böll and KAS to ask whether you can apply before enrolling and whether your German B.Sc. meets their language rule. Calendar: Böll 1 Mar / 1 Sep 2027, KAS ~15 Jul 2027, FES 30 Nov 2027, Deutschlandstipendium in your first semester
 

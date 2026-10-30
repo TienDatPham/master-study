@@ -4,7 +4,7 @@
 **Language:** German (the programme is German-taught)
 **Send:** October 2026
 
-**Betreff:** M.Sc. Informatik WiSe 2027/28: Bewerbungsfrist, APS, Sprachnachweis
+**Betreff:** M.Sc. Informatik WiSe 2027/28: Bewerbungsfrist, Sprachnachweis, Unterlagen
 
 ---
 
@@ -14,10 +14,9 @@ ich möchte mich zum Wintersemester 2027/28 für den Master Informatik an der Un
 
 Dazu habe ich einige Fragen:
 
-1. **Bewerbungsfrist:** Auf Ihrer Webseite steht ein Bewerbungszeitraum vom 1. Mai bis 15. Juni. Gilt dieser auch für mich als Nicht-EU-Bürger mit deutschem Abschluss? Wird derselbe Zeitraum für das WiSe 2027/28 gelten?
-2. **APS-Zertifikat:** Da mein Bachelorabschluss von einer deutschen Hochschule stammt, gehe ich davon aus, dass ich keine APS-Bescheinigung benötige. Können Sie das bestätigen?
-3. **Sprachnachweis:** Genügt mein deutscher Bachelorabschluss als Nachweis der Deutschkenntnisse (anstelle von DSH oder TestDaF)?
-4. **Unterlagen:** Welche Unterlagen muss ich einreichen (Zeugnis, Transcript, Motivationsschreiben, Lebenslauf), und werden beglaubigte Kopien verlangt?
+1. **Bewerbungsfrist:** Auf Ihrer Webseite steht ein Bewerbungszeitraum vom 1. Mai bis 15. Juni und der Satz „Bitte beachten Sie, dass für Bewerber aus Nicht-EU-Ländern spezifische Fristen und Regelungen gelten“, ohne dass dort Fristen genannt werden. Gilt der Zeitraum auch für mich als Nicht-EU-Bürger mit deutschem Abschluss? Wird derselbe Zeitraum für das WiSe 2027/28 gelten?
+2. **Sprachnachweis:** Genügt mein deutscher Bachelorabschluss als Nachweis der Deutschkenntnisse bei der Einschreibung (anstelle von DSH oder TestDaF)?
+3. **Unterlagen:** Ich habe die Liste unter „Schritt 1“ gelesen. Reicht es, Zeugnis, Transcript of Records und Diploma Supplement meines TU-Dresden-Abschlusses als PDF hochzuladen, oder wird zusätzlich etwas für Bewerber mit Wohnsitz im Ausland verlangt?
 
 Vielen Dank für Ihre Hilfe.
 

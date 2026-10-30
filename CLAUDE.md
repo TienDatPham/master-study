@@ -38,19 +38,24 @@
 | File | Contents |
 | --- | --- |
 | `CLAUDE.md` | This file — project overview, applicant profile, critical warnings |
-| `german-taught-programs.md` | All German-language M.Sc. programs researched (10+ universities) |
-| `english-taught-programs.md` | All English-language M.Sc. programs researched (TU Dresden, TU Berlin, Bonn, TUM, KIT, Freiburg, Stuttgart, Tübingen, Heidelberg, Bielefeld, RWTH) |
+| `plans/german-taught-programs.md` | All German-language M.Sc. programs researched (10+ universities) |
+| `plans/english-taught-programs.md` | All English-language M.Sc. programs researched (TU Dresden, TU Berlin, Bonn, TUM, KIT, Freiburg, Stuttgart, Tübingen, Heidelberg, Bielefeld, RWTH) |
+| `plans/key-findings.md` | Critical facts, verified corrections, scholarship eligibility, cost breakdown |
 | `priority-shortlist.md` | Combined ranked shortlist across both tracks + action plan |
-| `key-findings.md` | Critical facts, verified corrections, scholarship eligibility, cost breakdown |
 | `application-timeline.md` | Month-by-month preparation and application timeline to WiSe 2027/28 |
 | `monthly-action-plan.md` | Month-by-month to-do list, Oct 2026 – Oct 2027 |
-| `IELTS_5_Month_Study_Plan.md` | Nov 2026 – Mar 2027 IELTS study plan (target 7.0) |
+| `ielts/IELTS_5_Month_Study_Plan.md` | Nov 2026 – Mar 2027 IELTS study plan (target 7.0) |
+| `ielts/A little review for all skills.docx` | Dan's own review of all IELTS skills (Word document) |
+| `actions/scholarship/` | Scholarship eligibility/language enquiries: `01_fes`, `02_boell`, `03_kas` |
+| `actions/uni-mails/` | Numbered email drafts to universities: `00`–`02` and `06` TU Dresden (combined, ECTS credits, deadline/APS/language, thesis copy), `03` Uni Bonn (EEA status, deadline, APS), `04` Uni Hamburg (deadline, APS), `05` FSU Jena (deadline, APS) |
+
+**Folders:** `plans/` = program research, `ielts/` = IELTS prep material, `actions/` = outgoing enquiries and email drafts.
 
 ---
 
 ## ⚠️ Critical Facts — Read Before Any Response
 
-1. **TU Dresden M.Sc. Informatik (German) is DEPRECATED** — marked *auslaufend* from WiSe 2025/26. No new students accepted. The replacement is M.Sc. Computer Science (English). See `english-taught-programs.md`.
+1. **TU Dresden M.Sc. Informatik (German) is DEPRECATED** — marked *auslaufend* from WiSe 2025/26. No new students accepted. The replacement is M.Sc. Computer Science (English). See `plans/english-taught-programs.md`.
 
 2. **DAAD scholarship: Dan is NOT eligible** — DAAD requires B.Sc. completed within 6 years of application deadline. Dan's B.Sc.: Jan 2019. DAAD Nov 2026 deadline = 7 yr 9 mo. Ineligible by ~21 months.
 
@@ -62,7 +67,7 @@
 
 6. **TUM aptitude test** — Written exam in Munich, July–September. Must be taken in person. Major logistical barrier for Vietnam-based applicants.
 
-7. **IELTS required for all English programs** — Dan's German B.Sc. does NOT substitute for English language proof at English-taught programs. Target: IELTS 7.0 Academic (6.5 for TU Berlin/Heidelberg). Exam planned **March 2027** (study plan: `IELTS_5_Month_Study_Plan.md`); retake slot April 2027. Too late for Stuttgart/RWTH/TUM deadlines.
+7. **IELTS required for all English programs** — Dan's German B.Sc. does NOT substitute for English language proof at English-taught programs. Target: IELTS 7.0 Academic (6.5 for TU Berlin/Heidelberg). Exam planned **March 2027** (study plan: `ielts/IELTS_5_Month_Study_Plan.md`); retake slot April 2027. Too late for Stuttgart/RWTH/TUM deadlines.
 
 ---
 
